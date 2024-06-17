@@ -3,10 +3,10 @@
 # ( R ) is the annual interest rate (as a decimal)
 # ( T ) is the time the money is invested for in years
 
-P = 1000
-R = 0.05
-T = 3
+principal = 1000
+rate = 0.05
+time = 3
 
-I = P * R * T
+I = principal * rate * time
 
 print('The simpe interest is: ', I)
