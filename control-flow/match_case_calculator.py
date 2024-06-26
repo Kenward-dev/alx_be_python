@@ -20,3 +20,4 @@ match operation_type:
             print("Cannot divide by zero.")
     case _:
         print("Invalid operation type.")
+
